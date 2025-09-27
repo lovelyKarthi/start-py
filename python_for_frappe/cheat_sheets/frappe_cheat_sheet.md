@@ -1,4 +1,4 @@
-Python for Frappe - Quick Reference
+## Python for Frappe - Quick Reference
 
 - CRUD: frappe.get_doc(), frappe.get_all(), doc.insert(), doc.save(), doc.delete()
 - API: frappe.whitelist(), frappe.form_dict, allow_guest
